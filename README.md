@@ -10,7 +10,7 @@ A aplicação consiste em uma simples listagem de contatos com conexão com MySQ
 </div>
 
 # Tecnologias utilizadas
-[![My Skills](https://skillicons.dev/icons?i=css,php,html,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css,php,html,mysql,bootstrap)](https://skillicons.dev)
 
 # Autor
 
