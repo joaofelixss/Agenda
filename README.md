@@ -1,6 +1,6 @@
 # Sobre o projeto
 
-A lista de Tarefas é uma aplicação Back-end web construída por min com conhecimentos adiquiridos ao longo desses últimos meses estudando programação.
+O projeto Agenda é uma aplicação Back-end web construída por min com conhecimentos adiquiridos ao longo desses últimos meses estudando programação.
 
 A aplicação consiste em uma simples listagem de contatos com conexão com MySQL por meio do PDO no PHP
 <div>
